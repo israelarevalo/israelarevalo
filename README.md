@@ -1,4 +1,4 @@
-- Hi, I’m @Hakunator
+- Hi, I’m Israel Arevalo.
 - I’m interested in coding with R for statistical analysis.
 - I’m currently a Ph.D. student in school psychology.
 - I’m looking to collaborate on educational psychology projects.
