@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋,  I'm Israel</h1>
-<h3 align="center">A doctoral candidate in school psychology and data science enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Israel</h1>
+<h3 align="center">A bilingual school psychologist, doctoral candidate, and developing data scientist</h3>
 
 - 🔭 I’m currently working on **promoting use of data science within behavioral health**
 
