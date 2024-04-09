@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Israel</h1>
 <h3 align="center">A bilingual school psychologist, doctoral candidate, and data enthusiast</h3>
 
-- 🔭 I’m currently working on **promoting use of data science within behavioral health**
+- 🔭 I’m currently working on **promoting the use of data science within behavioral health while supporting the expansion of telehealth services to rural and underserved communities across the state of Texas**
 
-- 👯 I’m looking to collaborate on **healthcare projects involving NLP**
+- 👯 I’m looking to collaborate on **healthcare projects involving natural language processing**
 
 - 💬 Ask me about **behavioral health and AI!**
 
