@@ -43,6 +43,15 @@
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
   </a>
+  <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/IBM_SPSS_logo.svg" alt="spss" width="40" height="40"/>
+  </a>
+  <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.stata.com/themes/stata/logo.svg" alt="stata" width="60" height="20"/>
+  </a>
+  <a href="https://www.statmodel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.statmodel.com/images/MplusLogo.jpg" alt="mplus" width="80" height="30"/>
+  </a>
 </p>
 
 <h3 align="left">📈 Data Visualization & BI</h3>
