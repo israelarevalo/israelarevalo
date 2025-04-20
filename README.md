@@ -60,11 +60,6 @@
   <img src="https://img.shields.io/badge/Mplus-Latent%20Variable%20Modeling-informational?style=flat&logo=none&color=blueviolet" alt="Mplus badge"/>
 </p>
 
-<h4>🔢 Statistical Expertise</h4>
-<p>
-  Proficient in advanced statistical modeling including structural equation modeling (SEM), mixed-effects models, latent variable analysis, multilevel modeling (HLM), longitudinal analysis, and psychometrics. Skilled in using R, Python, SPSS, Stata, and Mplus for behavioral health and educational research.
-</p>
-
 <h3 align="left">☁️ Cloud & DevOps</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
