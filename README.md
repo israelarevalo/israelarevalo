@@ -26,7 +26,7 @@
 <h3 align="left">📊 Data Science, ML & Statistical Modeling</h3>
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
@@ -43,25 +43,26 @@
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
   </a>
-  <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/IBM_SPSS_logo.svg" alt="spss" width="40" height="40"/>
-  </a>
-  <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.stata.com/themes/stata/logo.svg" alt="stata" width="60" height="20"/>
-  </a>
-  <a href="https://www.statmodel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.statmodel.com/images/MplusLogo.jpg" alt="mplus" width="80" height="30"/>
-  </a>
 </p>
 
 <h3 align="left">📈 Data Visualization & BI</h3>
 <p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/P/power-bi-logo-0F3608B2D7-seeklogo.com.png" alt="powerbi" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Power%20BI-Microsoft-informational?style=flat&logo=powerbi&logoColor=white&color=yellow" alt="Power BI badge"/>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="left">📐 Statistical & Analytical Software</h3>
+<p>
+  <img src="https://img.shields.io/badge/SPSS-IBM-informational?style=flat&logo=none&logoColor=white&color=blue" alt="SPSS badge"/>
+  <img src="https://img.shields.io/badge/Stata-Statistical%20Software-informational?style=flat&logo=none&color=blue" alt="Stata badge"/>
+  <img src="https://img.shields.io/badge/Mplus-Latent%20Variable%20Modeling-informational?style=flat&logo=none&color=blueviolet" alt="Mplus badge"/>
+</p>
+
+<h4>🔢 Statistical Expertise</h4>
+<p>
+  Proficient in advanced statistical modeling including structural equation modeling (SEM), mixed-effects models, latent variable analysis, multilevel modeling (HLM), longitudinal analysis, and psychometrics. Skilled in using R, Python, SPSS, Stata, and Mplus for behavioral health and educational research.
 </p>
 
 <h3 align="left">☁️ Cloud & DevOps</h3>
