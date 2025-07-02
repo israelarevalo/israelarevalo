@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Israel 👋</h1>
-<h3 align="center">A bilingual school psychologist, doctoral candidate, and data enthusiast</h3>
+<h3 align="center">A research scientist and bilingual school psychologist</h3>
 
 - 🔭 I’m currently working on **promoting the use of data science within behavioral health**
 - 🤓 I'm passionate about **supporting the expansion of telehealth services to rural and underserved communities across the the country**
